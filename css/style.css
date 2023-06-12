@@ -151,6 +151,6 @@ img {
     }
 
     .why-us .col {
-        background-color: #222222;
+        background-color: #222222; /*perchè non copre tutto il background? */
     }
 }
